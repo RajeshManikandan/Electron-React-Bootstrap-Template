@@ -1,0 +1,26 @@
+[
+    {
+        "name":"project-name",
+        "process":["",""],
+        "resources":["",""],
+        "groups":
+        [
+            {
+                "resources":["",""],
+                "process":["",""]
+            }
+        ]   
+    },
+    {
+        "name":"project-name2",
+        "process":["",""],
+        "resources":["",""],
+        "groups":
+        [
+            {
+                "resources":["",""],
+                "process":["",""]
+            }
+        ]   
+    }
+]
